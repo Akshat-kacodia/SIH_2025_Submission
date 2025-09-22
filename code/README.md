@@ -1,10 +1,24 @@
-## Tasks Accomplished
+## ✅ Tasks Accomplished  
 
-- [x] **Data Collection:** Gathered hyperspectral images and sample datasets for testing.  
-- [x] **Preprocessing & Analysis:** Applied MATLAB Image Processing and Hyperspectral Libraries to clean and analyze data.  
-- [x] **Model Development:** Built and trained deep learning models using MATLAB Deep Learning Toolbox and Python ML libraries.  
-- [x] **Frontend Development:** Developed a responsive web dashboard using Next.js, React, and Tailwind CSS.  
-- [x] **Data Visualization:** Integrated Recharts for clear, interactive crop health visualizations.  
+- [x] **Data Collection:** Collected Sentinel-2 hyperspectral imagery (Indian Pines dataset for testing) and soil moisture sensor datasets.  
+- [x] **Preprocessing & Alignment:** Cleaned hyperspectral bands, applied PCA/dimensionality reduction, and mapped sensor readings with GPS coordinates.  
+- [x] **Feature Extraction:** Computed vegetation indices (NDVI, PRI, etc.), soil moisture indicators, and temporal patterns from IoT sensors.  
+- [x] **Model Development:** Implemented CNNs for hyperspectral image classification and LSTMs for temporal soil/sensor trend analysis.   
+- [x] **Dashboard Development:** Built a responsive web dashboard using Next.js, React, and Tailwind CSS for farmer-friendly access.  
+- [x] **Visualization:** Added interactive maps, time-series plots, and anomaly alerts using Recharts.  
+- [x] **Prototyping:** Developed an end-to-end pipeline demonstrating AI-powered early detection of crop stress, soil issues, and pest risks.  
+
+
+## Next Steps / Future Work
+
+- [ ] **Data Expansion:** Collect larger real-world hyperspectral and soil sensor datasets across diverse crops and regions.  
+- [ ] **Model Optimization:** Fine-tune CNN and LSTM models, explore transformer-based architectures for improved accuracy.  
+- [ ] **Real-time Integration:** Connect live IoT soil sensors with satellite imagery streams for continuous monitoring.  
+- [ ] **Edge Deployment:** Optimize models for lightweight deployment on mobile/edge devices for on-field access.  
+- [ ] **Advanced Analytics:** Incorporate pest/disease forecasting models and weather prediction into the platform.  
+- [ ] **User Features:** Add farmer advisory system with zone-specific actionable insights and multilingual notifications.  
+- [ ] **Validation:** Conduct pilot testing with agronomists and farmers to validate predictions and refine usability.  
+  
 
 ## Technology Stack
 
