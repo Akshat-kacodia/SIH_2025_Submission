@@ -48,5 +48,6 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository**
     
-   git clone [GITHUB_LINK_TO_THE_REPO](https://github.com/Amnsngh0904/crop-health-dashboard)
+   git clone (https://github.com/Amnsngh0904/crop-health-dashboard).
+   
    cd crop-health-dashboard
