@@ -42,7 +42,7 @@ This project leverages the following technologies:
 - **AI-Powered Predictions:** Deep learning models to detect stress patterns and anomalies.  
 - **Interactive Dashboard:** Real-time visualization with filters, maps, and charts for easy decision-making.  
 
-## Local Setup Instructions (Windows & macOS)
+## Local Setup Instructions (Windows & macOS) for [FRONTEND](https://github.com/Amnsngh0904/crop-health-dashboard) Repository
 
 Follow these steps to run the project locally:
 
