@@ -1,6 +1,3 @@
-# PS Chosen SIH Hackathon
-
-This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 ## Problem Statement Details
 
 **Problem Statement ID:** 25099
@@ -11,6 +8,13 @@ This README provides an overview of the project, including team details, relevan
 
 **Category:** Software
 
+# About Our Project
+
+Our project addresses the urgent challenges faced by modern agriculture—soil degradation, unpredictable weather, and pest outbreaks—by developing an AI-powered precision agriculture platform. The system integrates hyperspectral imaging, environmental sensors, and deep learning models to provide farmers and agronomists with real-time, field-level insights into crop health, soil conditions, and pest/disease risks.
+
+Using the MATLAB Hyperspectral Imaging Library, Image Processing Toolbox, and Deep Learning Toolbox, the platform extracts vegetation and soil indices, detects anomalies, and predicts stress conditions through advanced models like CNNs and LSTMs. Simultaneously, IoT-based sensor data (soil moisture, temperature, humidity, leaf wetness) is fused with image-derived features to improve accuracy and enable zone-specific alerts.
+
+The system is presented through a user-friendly dashboard, built with Next.js, React, Tailwind CSS, and Recharts, where farmers and researchers can view spectral health maps, soil summaries, temporal trends, risk predictions, and alerts. The platform is designed to shift agriculture from reactive to proactive management, empowering sustainable practices, reducing crop losses, and improving productivity.
 
 ## Team Details
 
