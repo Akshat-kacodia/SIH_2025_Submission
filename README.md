@@ -4,9 +4,12 @@ This README provides an overview of the project, including team details, relevan
 ## Problem Statement Details
 
 **Problem Statement ID:** 25099
+
 **Problem Statement Title:** AI-powered monitoring of crop health, soil condition, and pest risks using multispectral/hyperspectral imaging and sensor data.
-**Theme:**Agriculture,FoodTechand Rural Development
-**Category:**Software
+
+**Theme:** Agriculture,FoodTechand Rural Development
+
+**Category:** Software
 
 
 ## Team Details
