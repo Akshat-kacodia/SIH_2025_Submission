@@ -47,6 +47,6 @@ This project leverages the following technologies:
 Follow these steps to run the project locally:
 
 1. **Clone the Repository**
-   ```bash
-   git clone GITHUB_LINK_TO_THE_REPO
-   cd REPO_DIRECTORY
+    
+   git clone [GITHUB_LINK_TO_THE_REPO](https://github.com/Amnsngh0904/crop-health-dashboard)
+   cd crop-health-dashboard
