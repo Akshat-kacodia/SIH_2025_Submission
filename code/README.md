@@ -46,8 +46,44 @@ This project leverages the following technologies:
 
 Follow these steps to run the project locally:
 
+
+Before you begin, ensure you have the following installed on your system:
+
+- **Node.js** (version 18.0 or higher)
+  - Download from [nodejs.org](https://nodejs.org/)
+  - Verify installation: `node --version`
+- **pnpm** (recommended package manager)
+  - Install globally: `npm install -g pnpm`
+  - Verify installation: `pnpm --version`
+- **Git** (for cloning the repository)
+  - Download from [git-scm.com](https://git-scm.com/)
+
+### Installation Steps
+
 1. **Clone the Repository**
-    
-   git clone (https://github.com/Amnsngh0904/crop-health-dashboard).
-   
+   \`\`\`bash
+   git clone https://github.com/Amnsngh0904/crop-health-dashboard.git
    cd crop-health-dashboard
+   \`\`\`
+
+2. **Install Dependencies**
+   \`\`\`bash
+   pnpm install
+   \`\`\`
+
+3. **Start the Development Server**
+   \`\`\`bash
+   pnpm dev
+   \`\`\`
+
+4. **Open in Browser**
+   - Navigate to [http://localhost:3000](http://localhost:3000)
+   - The application should now be running locally
+
+### Available Scripts
+
+- `pnpm dev` - Start the development server
+- `pnpm build` - Build the application for production
+- `pnpm start` - Start the production server
+- `pnpm lint` - Run ESLint to check for code issues
+
