@@ -37,4 +37,4 @@ The system is presented through a user-friendly dashboard, built with Next.js, R
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** [View Deployment](https://crop-health-dashboard-ten.vercel.app/)
 - **Source Code:** [GitHub Repository - FRONTEND](https://github.com/Amnsngh0904/crop-health-dashboard) | [GitHub Repository - BACKEND(MATLAB MODELS)](https://github.com/mishra-bytes/FarmAssist) 
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+
