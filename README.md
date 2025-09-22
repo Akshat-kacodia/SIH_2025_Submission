@@ -33,7 +33,7 @@ The system is presented through a user-friendly dashboard, built with Next.js, R
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** [Final SIH Presentation]([URL TO PPT UPLOADED TO GITHUB](https://github.com/Akshat-kacodia/SIH_2025_Internal_Round_Submission_Template-/blob/main/files/FarmAssistPPT.pdf))
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** [View Deployment](https://crop-health-dashboard-ten.vercel.app/)
 - **Source Code:** [GitHub Repository - FRONTEND](https://github.com/Amnsngh0904/crop-health-dashboard) | [GitHub Repository - BACKEND(MATLAB MODELS)](https://github.com/mishra-bytes/FarmAssist) 
