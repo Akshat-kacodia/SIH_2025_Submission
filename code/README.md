@@ -1,4 +1,4 @@
-## ✅ Tasks Accomplished  
+## Tasks Accomplished  
 
 - [x] **Data Collection:** Collected Sentinel-2 hyperspectral imagery (Indian Pines dataset for testing) and soil moisture sensor datasets.  
 - [x] **Preprocessing & Alignment:** Cleaned hyperspectral bands, applied PCA/dimensionality reduction, and mapped sensor readings with GPS coordinates.  
