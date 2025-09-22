@@ -61,20 +61,20 @@ Before you begin, ensure you have the following installed on your system:
 ### Installation Steps
 
 1. **Clone the Repository**
-   \`\`\`bash
+   
    git clone https://github.com/Amnsngh0904/crop-health-dashboard.git
    cd crop-health-dashboard
-   \`\`\`
+   
 
 2. **Install Dependencies**
-   \`\`\`bash
+  
    pnpm install
-   \`\`\`
+   
 
 3. **Start the Development Server**
-   \`\`\`bash
+   
    pnpm dev
-   \`\`\`
+   
 
 4. **Open in Browser**
    - Navigate to [http://localhost:3000](http://localhost:3000)
