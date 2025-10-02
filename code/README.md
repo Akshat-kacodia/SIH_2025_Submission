@@ -64,18 +64,15 @@ Before you begin, ensure you have the following installed on your system:
    
    git clone https://github.com/Amnsngh0904/crop-health-dashboard.git
    cd crop-health-dashboard
-   
 
 2. **Install Dependencies**
   
    pnpm install
    
-
 3. **Start the Development Server**
    
    pnpm dev
    
-
 4. **Open in Browser**
    - Navigate to [http://localhost:3000](http://localhost:3000)
    - The application should now be running locally
@@ -86,4 +83,33 @@ Before you begin, ensure you have the following installed on your system:
 - `pnpm build` - Build the application for production
 - `pnpm start` - Start the production server
 - `pnpm lint` - Run ESLint to check for code issues
+
+
+##  Local Setup & Installation for [BACKEND](https://github.com/mishra-bytes/FarmAssist) Repository
+
+Follow the steps below to set up the project on your local system and run the MATLAB scripts.  
+
+### 1. Prerequisites  
+- Install **MATLAB R2025a or later** (earlier versions may work, but R2025a is recommended).  
+- Ensure the following MATLAB library and toolboxes are installed:  
+  - Image Processing Toolbox  
+  - Deep Learning Toolbox  
+  - Statistics and Machine Learning Toolbox
+  - MATLAB Hyperspectral Imaging Library
+
+### 2. Clone the Repository  
+git clone https://github.com/mishra-bytes/FarmAssist.git
+
+cd FarmAssist
+
+### 3. Running the Code  
+
+1. Open **MATLAB** and set the current folder to the project directory (`FarmAssist`).  
+2. Run the desired script from the MATLAB Command Window or Editor:  
+
+   - **To train and test the CNN model**:  run('CNN.m')
+   - **To train and test the Hybrid model**:  run('indian_pines_hybrid_cnn.m')
+
+
+
 
